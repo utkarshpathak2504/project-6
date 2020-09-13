@@ -1,0 +1,159 @@
+.nav-item{
+    margin-right:10px;
+    font-size: medium;
+    color:grey;
+    font-weight: 600;
+
+    
+}
+.navbar-brand{
+    margin-right: 30%;
+    font-weight: bold;
+}
+.btn{
+    margin-left:5%;
+    padding: 7px 15px 7px 15px;
+    font-weight: bold;
+}
+nav{
+    height: 100px;
+    
+}
+.btn-light{
+    opacity: 0.6;
+    padding: 3px;
+}
+.main-content{
+    background-color: #6900C7;
+    clip-path: polygon(100% 0%, 0% 0%, 0% 100%, 100% 88%);
+    height: 100vh;
+    background-image: url(art.png);
+   
+    
+}
+.btn1{
+    background-color: white;
+}
+.main-content h1{
+    color: white;
+    padding: 10% 0% 0% 15%;
+    margin: 10% 0% 0% 15%;
+    
+   
+
+}
+.main-content p{
+    color: lightgrey;
+    padding: 0% 0% 20% 15%;
+   margin: 0% 0% 8% 15%;
+}
+.text-white{
+    padding-top: 8%;
+}
+.sign-up{
+    padding:20px 50px 20px 50px;
+    color: #0061F2;
+    background-color: #F7F7F7;
+    font-weight: 600;
+    font-size: medium;
+}
+
+.find{
+    color: #cccdcf;
+    letter-spacing: 0.1rem;
+    padding: 1rem 15rem;
+  
+ }
+  svg {
+     width: 100%;
+     fill: #a2acba;
+     padding-right: 1rem;
+     padding-left: 1rem;
+ }
+ .about{
+    clip-path: polygon(100% 0%, 0% 12%, 0% 100%, 100% 88%);
+    height: 65rem;
+    background-color: #eff3f9;
+}
+.about  h2{
+    padding: 17% 0% 0% 10%;
+    
+}
+
+.about p{
+padding: 0 0 3% 10%;
+color: gray;
+font-size: 17px;
+}
+.myi{
+    color:purple;
+}
+.bg{
+    clip-path: polygon(100% 0%, 0% 12%, 0% 100%, 100% 88%);
+    height: 65rem;
+    background-color: #eff3f9;
+}
+.badge-marketing{
+    color: white;
+}
+
+.marketing{
+    position: absolute;
+    margin-top: -62rem;
+    padding: 10rem 15rem;
+    
+}
+
+.marh{
+    color:white !important;
+}
+
+.text-gray{
+    color: #687281;
+    font-size: 1.2rem !important;
+}
+
+.head{
+    color: #323f52;
+    font-weight: 500 !important;
+
+}
+
+.sub{
+    color: #687281;
+    font-weight: 400 !important;
+}
+
+.marketing .card {
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(31,45,65,.15);
+    position: relative;
+    padding: 3rem;
+    margin-bottom: 3rem;
+}
+
+.icons{
+    
+    padding: 1.6rem;
+    padding-top: 1rem ;
+    border-radius: 50%;
+    background-color: rgb(145, 110, 145);
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+}
+.ready  h4 {
+    margin:8% 0 0 8%;
+}
+.ready p{
+    margin-left: 8%;
+}
+
+footer {
+    color:grey;
+}
+a{
+    color: grey;
+}
+a:hover{
+    color:grey;
+}
